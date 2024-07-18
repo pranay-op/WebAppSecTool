@@ -1,0 +1,23 @@
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Referer: https://image.et.usaa.com/
+X-Forwarded-For: 127.0.0.1
+X-Original-URL: /admin
+X-Forwarded-Host: 127.0.0.1
+X-Forwarded-Proto: http
+X-Custom-IP-Authorization: 127.0.0.1
+X-Rewrite-URL: /admin/console
+X-Host: 127.0.0.1
+X-Remote-IP: 127.0.0.1
+X-Client-IP: 127.0.0.1
+X-Remote-Addr: 127.0.0.1
+X-Originating-IP: 127.0.0.1
+X-Forwarded-For-Original: 127.0.0.1
+X-Forwarded: 127.0.0.1
+X-Real-IP: 127.0.0.1
+Forwarded-For: 127.0.0.1
+True-Client-IP: 127.0.0.1
+Client-IP: 127.0.0.1
+Proxy-Client-IP: 127.0.0.1
+X-ProxyUser-Ip: 127.0.0.1
+X-Forwarded-Server: 127.0.0.1
+
